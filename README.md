@@ -11,7 +11,8 @@ Follow the instruction from [Getting Started with Phonegap](http://docs.phonegap
 Note on Installation
 =========================
 
-I recommend [Eclipse EE](http://www.eclipse.org/downloads/packages/eclipse-ide-java-ee-developers/junosr2 "Eclipse EE") rather than Eclipse Classic
+- I recommend [Eclipse EE](http://www.eclipse.org/downloads/packages/eclipse-ide-java-ee-developers/junosr2 "Eclipse EE") rather than Eclipse Classic
+- On Windows, you might need to install [Apache Ant](http://ant.apache.org/bindownload.cgi) 
 
 More Stuffs
 =========================
