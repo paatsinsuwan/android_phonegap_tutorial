@@ -1,12 +1,15 @@
-android_phonegap_tutorial
+Android Phonegap Tutorial
 =========================
 
 Developing Android Application using Phonegap.
 
+Instruction
+=========================
+
+Follow the instruction from [Getting Started with Phonegap](http://docs.phonegap.com/en/2.5.0/guide_getting-started_android_index.md.html#Getting%20Started%20with%20Android)
+
 Installation
 =========================
 
-- Download and install [Eclipse EE](http://www.eclipse.org/downloads/packages/eclipse-ide-java-ee-developers/junosr2 "Eclipse EE")
-- Download and install [Android SDK](http://developer.android.com/sdk/index.html)
-- Download and install [ADT Plugin](http://developer.android.com/sdk/installing/installing-adt.html)
-- Download the latest copy of [PhoneGap](http://phonegap.com/download/) and extract its contents. We will be working with the Android directory.
+I recommend [Eclipse EE](http://www.eclipse.org/downloads/packages/eclipse-ide-java-ee-developers/junosr2 "Eclipse EE") rather than Eclipse Classic
+
